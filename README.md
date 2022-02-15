@@ -4,7 +4,7 @@
 
 
 ### Task
-In this assignment, I was tasked with building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not over time.
+ This machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not over time.
 
 
 ### Background
